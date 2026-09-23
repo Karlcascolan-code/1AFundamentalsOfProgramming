@@ -8,7 +8,7 @@ public class thirdJava {
         BufferedReader dataIn = new BufferedReader(new InputStreamReader(System.in));
 
         String name = "";
-        System.out.print("Please Enter Your Name:");
+        System.out.print("Please Enter Your Name: ");
 
         try{
             name = dataIn.readLine();
